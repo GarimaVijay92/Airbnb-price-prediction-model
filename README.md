@@ -1,21 +1,5 @@
 # Airbnb Data Analysis
-# Analyzing short-term rental trends, pricing strategies, and market insights to optimize Airbnb listings.
-
-Table of Contents
-Overview
-Research Questions
-Dataset
-Recommendation for Airbnb Hosts
-Technologies Used
-Setup Instructions
-How It Works
-Code Snippets
-Features
-Status
-Challenges
-Learnings
-Contributors
-Contact
+### Analyzing short-term rental trends, pricing strategies, and market insights to optimize Airbnb listings.
 
 # Overview
 This project analyzes the Airbnb short-term rental market, focusing on pricing optimization, room type distribution, and city-wise trends. The goal is to help hosts establish competitive rates, predict factors impacting pricing, and identify market patterns.
