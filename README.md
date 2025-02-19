@@ -92,6 +92,6 @@ Understanding Airbnb market dynamics across cities
 Applying clustering for customer segmentation
 Contributors
 Garima Vijay
-Contact
+# Contact
 🔗 LinkedIn: [GarimaVijay]([url](https://www.linkedin.com/in/garimavijay02/))
 🖥 GitHub: [GarimaVijay]([url](https://github.com/GarimaVijay92))
