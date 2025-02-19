@@ -93,5 +93,5 @@ Applying clustering for customer segmentation
 # Contributors
 Garima Vijay
 # Contact
-🔗 LinkedIn: [GarimaVijay]([url](https://www.linkedin.com/in/garimavijay02/))
-🖥 GitHub: [GarimaVijay]([url](https://github.com/GarimaVijay92))
+🔗 LinkedIn: https://www.linkedin.com/in/garimavijay02/
+🖥 GitHub: https://github.com/GarimaVijay92
