@@ -90,7 +90,7 @@ Managing imbalanced data for classification models
 Improved ML model selection for pricing predictions
 Understanding Airbnb market dynamics across cities
 Applying clustering for customer segmentation
-Contributors
+# Contributors
 Garima Vijay
 # Contact
 🔗 LinkedIn: [GarimaVijay]([url](https://www.linkedin.com/in/garimavijay02/))
